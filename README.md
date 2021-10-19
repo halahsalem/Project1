@@ -1,2 +1,2 @@
-# How to help the movies production companies using data analysis.
-Data scince project
+Prediction the profits of cinematic movies.
+Check the reprot and slides for more information
